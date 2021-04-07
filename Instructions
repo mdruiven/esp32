@@ -1,0 +1,22 @@
+Cut out ESP32Base from 1/8 inch or 0.1 inch 5056 Aluminum or 1/8 inch Lexan.
+Fold the motor support tabs to 90 degrees.
+Use 2.5mm screws to attach continuous rotation micro servos. Washers and nuts may, or may not be needed. My screws threaded into the servos so nuts were not required.
+Solder 15 pin 2.54 Stackable Long leg Headers to ESP32 Dev Modules.
+Follow the assembly instructions at https://sites.google.com/view/sparboticsesp32.
+PARTS
+1. Base
+2. 2 Continuous Rotation Micro Servo Motors
+3. 2 Wheels.
+4. 1 8.5cm x 5.5cm breadboard
+5. HC-SR04 Ultrasonic module and bracket
+6. 10cm male-male jumpers x 6
+7. 10cm male-female jumpers x 4
+8. 6  1cm 22 gauge bare wires (connect servo to breadboard)
+9. several green and red 22 gauge short jumpers
+10. 1/4" dowel, 1.5"
+11. small cable ties x2
+12. LEDs
+13. 100 - 150 ohm resistors
+14. 2.5mm x 1/4 - 1/2 inch screws, washers, nuts
+15. ESP32 Dev Module - no headers
+16. 2 x 2.54 Stackable Long leg Headers
